@@ -1,0 +1,15 @@
+Houndour,, 1
+Flareon,, 2
+Fennekin,, 1
+Charmander,, 1
+Ponyta, 1
+Flareon, 1
+Torchic, 2
+Zigzagoon, 1
+Torchic 1
+Houndour 4
+Flareon 2
+Growlithe 1
+Drifloon 1
+Vulpix 1
+Arcanine 1
